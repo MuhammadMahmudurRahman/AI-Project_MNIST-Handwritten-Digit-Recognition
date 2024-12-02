@@ -1,3 +1,3 @@
 # Machine Learning Project
 
-### MNIST handwritten digit recognition
+### MNIST Handwritten Digit Recognition
