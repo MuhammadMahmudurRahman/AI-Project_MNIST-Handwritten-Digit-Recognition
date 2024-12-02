@@ -1,3 +1,3 @@
 # Machine-Learning
-Kunskapskontroll_2_Maskininlärning_DS23_EC_22 mars och 
-Rapport_Maskininlärning_DS23_EC_22 mars
+
+### MNIST handwritten digit recognition
