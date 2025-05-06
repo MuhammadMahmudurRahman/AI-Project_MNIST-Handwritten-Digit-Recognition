@@ -1,1 +1,1 @@
-# MNIST Handwritten Digit Recognition using Machine Learning
+### MNIST Handwritten Digit Recognition using Machine Learning
